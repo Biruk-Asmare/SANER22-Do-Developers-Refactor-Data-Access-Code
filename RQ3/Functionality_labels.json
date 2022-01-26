@@ -1,0 +1,191 @@
+{
+    
+    "functionality": [
+        {
+            "value": "Parse objects",
+            "description": "Auxilary function to get some data from passed objects",
+            "id":0
+        },
+        {
+            "value": "Processs result set",
+            "description": "manupulate the result set returned from data access call, provide iteration over result set",
+            "id":1
+        },
+        {
+            "value": "Test data access",
+            "description": "testing different data access types and functions. export metadata information is tested. test table creation",
+            "id":2
+        },
+        {
+            "value": "close database connection",
+            "description": "close database connection and release resources",
+            "id":3
+        },
+        
+        {
+            "value": "Configure database access",
+            "description": "store server name ip address or other credentials, store table index name, provide some parameter to the connection or database driver",
+            "id":5
+        },
+        {
+            "value": "store data element",
+            "description": "variables storing data elments or fields",
+            "id":6
+        },
+        {
+            "value": "data model",
+            "description": "abstracting some data entitiy, add wrapper to some data sources",
+            "id":7
+        },
+        {
+            "value": "function parameter",
+            "description": "store passed value as parameter",
+            "id":8
+        },
+        {
+            "value": "upgrade table",
+            "description": "delete existing and re-create a table",
+            "id":10
+        },
+        {
+            "value": "Insert data",
+            "description": "insert data to a database, temporatry data structures and file systems",
+            "id":11
+        },
+        {
+            "value": "Fetch data",
+            "description": "Fetch data from data source or database",
+            "id":12
+        },
+        {
+            "value": "delete data",
+            "description": "delete a record from database",
+            "id":13
+        },
+        {
+            "value": "Class constructor",
+            "description": "class constructor or that initialize class fields",
+            "id":14
+        },
+        {
+            "value": "Decorate query",
+            "description": "preprocess a query",
+            "id":15
+        },
+        {
+            "value": "unknown(empty method)",
+            "description": "functionality is unknown because the method is empty",
+            "id":17
+        },
+        {
+            "value": "Prepare statement",
+            "description": "functionality to prepare statement given a query",
+            "id":18
+        },
+        {
+            "value": "update data",
+            "description": "update a data in data soruce",
+            "id":19
+        },
+        {
+            "value": "delete index",
+            "description": "drop index from database",
+            "id":20
+        },
+        {
+            "value": "Initialize UI element",
+            "description": "init UI components",
+            "id":21
+        },
+        {
+            "value": "Test database driver",
+            "description": "tests some or parts of a database driver",
+            "id":26
+        },
+        {
+            "value": "Implement database dialect",
+            "description": "part of implmentation of a new database dialect",
+            "id":27
+        },
+        {
+            "value": "connect to database",
+            "description": "connect to database",
+            "id":28
+        },
+        {
+            "value": "Implement non-data access business logic",
+            "description": "computing function based on business logic",
+            "id":22
+        },
+        {
+            "value": "test query performance",
+            "description": "test query performance",
+            "id":30
+        },
+        {
+            "value": "Manage transaction",
+            "description": "Undo/perform a database transaction",
+            "id":31
+        },
+        {
+            "value": "Initialize utility fields",
+            "description": "variables  or fields storing information not related to database access",
+            "id":32
+        },
+        {
+            "value": "import database",
+            "description": "import database from external sources",
+            "id":33
+        },
+        {
+            "value": "create index",
+            "description": "create a new index",
+            "id":35
+        },
+        {
+            "value": "implement SQL query",
+            "description": "implement sql queries and functions to another persistence platform",
+            "id":37
+        },
+        {
+            "value": "Drop constraint",
+            "description": "drop constraints such as foreign keys preimary keys etc",
+            "id":38
+        },
+        {
+            "value": "change index",
+            "description": "change the index of a table",
+            "id":39
+        },
+        {
+            "value": "field accessor",
+            "description": "provide accessor for a field",
+            "id":40
+        },
+        {
+            "value": "create trigger",
+            "description": "create new triggers on the tables",
+            "id":41
+        },
+        {
+            "value": "Input validation",
+            "description": "input validation before insert or update",
+            "id":42
+        },
+        {
+            "value": "create database",
+            "description": "function to creqte sql database",
+            "id":43
+        },
+        {
+            "value": "test non data-access functionality",
+            "description": "test functionalities not related to dataaccess",
+            "id":44
+        },
+        {
+            "value": "UI event handler",
+            "description": "handler for different UI events",
+            "id":45
+        }
+    ]
+}
